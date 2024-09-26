@@ -79,6 +79,3 @@ Evaluate the model’s performance by calculating the accuracy score of the mode
 Evaluate the Models
 In the appropriate markdown cell, answer the following questions:
 
-Which model performed better?
-
-How does that compare to your prediction?
