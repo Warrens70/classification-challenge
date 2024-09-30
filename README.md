@@ -4,7 +4,7 @@ Let's say you work at an Internet Service Provider (ISP) and you've been tasked 
 
 You will be creating two classification models to fit the provided data, and evaluate which model is more accurate at detecting spam. The models you'll create will be a logistic regression model and a random forest model.
 
-Files
+Files to download
 Download the following files to help you get started:
 
 Module 13 Challenge filesLinks to an external site.
